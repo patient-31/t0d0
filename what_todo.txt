@@ -1,4 +1,0 @@
-
-1 - fix character deletion function, must not remove character on cursor location.
-2 - adding characters between line must remove characters at end and push line forward.
-3 - pressing enter should add a new line and push lines down and push to top of new verse.
