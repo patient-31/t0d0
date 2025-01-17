@@ -51,5 +51,5 @@
 ## Screenshots
 
 ### _T0_D0_3.B_2_ ForcePush2
-![blackandgreen]([https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.B_2_.folder/blackandgreen.png?raw=true](https://github.com/patient-31/t0d0/blob/path/Screenshots/_T0_D0_3.B_2_.folder/blackandgreen.png?raw=true))
+![blackandgreen](https://github.com/patient-31/t0d0/blob/path/Screenshots/_T0_D0_3.B_2_.folder/blackandgreen.png)
 
