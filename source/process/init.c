@@ -67,7 +67,7 @@ none	init_(t_program *o, i_H * title)
 	} if (i != ENDARR) {	ERROR_MEM(o);	}
 
 	o->title 			= dc_strdup(title);
-	o->creator 			= dc_strdup("Created by Danielle [pippin-29]");
+	o->creator 			= dc_strdup("Created by Daniel [patient-31]");
 	o->quit 			= dc_strdup("QUITT -- __ctrl_q__");
 	o->next_verse 		= dc_strdup("NVERS -- __ctrl_n__");
 	o->prev_verse 		= dc_strdup("PVERS -- __ctrl_b__");
