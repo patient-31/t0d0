@@ -51,26 +51,5 @@
 ## Screenshots
 
 ### _T0_D0_3.B_2_ ForcePush2
-![blackandgreen](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.B_2_.folder/blackandgreen.png?raw=true)
-
-### _T0_D0_3.B_2_
-![rap-engine](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.B_2_.folder/rap-engine.png?raw=true)
-![rapper](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.B_2_.folder/rapper.png?raw=true)
-![lab-language-compiler-early-revise](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.B_2_.folder/lab-language-compiler-early-revise.png?raw=true)
-
-### _T0_D0_3.A_2_ Functionality
-![after-load](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.A_2_.folder/after-load.png?raw=true)
-
-### _T0_D0_3.P__
-![confused](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.P__.folder/confused.png?raw=true)
-![off-by-8](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/_T0_D0_3.P__.folder/off-by-8.png?raw=true)
-
-### T0_D0_3.O_ Functionality
-![checking-cursor-constraints](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/T0_D0_3.O_.folder/checking-cursor-constraints.png?raw=true)
-![takes-input](https://github.com/pippin-29/Tt0d0/blob/%3Cvine_2.0%3E/Screenshots/T0_D0_3.O_.folder/takes-input.png?raw=true)
-![state-of-third-set](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/T0_D0_3.O_.folder/start-of-third-set.png?raw=true)
-![end-of-array](https://github.com/pippin-29/t0d0/blob/%3Cvine_2.0%3E/Screenshots/T0_D0_3.O_.folder/end-of-array.png?raw=true)
-
-#### to_do_3.0 functionality and early design
-[to_do_3.0.folder](https://github.com/pippin-29/t0d0/tree/%3Cvine_2.0%3E/Screenshots/to_do_3.0.folder)
+![blackandgreen](https://github.com/patient-31/t0d0/blob/path/Screenshots/_T0_D0_3.B_2_.folder/blackandgreen.png)
 
